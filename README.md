@@ -19,7 +19,7 @@
 ## 📂 Projects
 - Java DSA Practice
 - Web Development Projects
-- AI Resume Generator
+- Weather App
 - JavaScript Mini Projects
 
 ---
