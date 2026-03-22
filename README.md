@@ -32,7 +32,7 @@
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/Sagun-Bajpai
-- LinkedIn: (your linkedin link)
+- LinkedIn: (https://www.linkedin.com/in/sagun-bajpai-4bab1b337/)
 
 ---
 
