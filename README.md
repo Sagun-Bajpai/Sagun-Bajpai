@@ -71,14 +71,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sagun-Bajpai&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
