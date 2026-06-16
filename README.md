@@ -44,7 +44,6 @@
 
 | Project | Description | Tech Stack | Live |
 |---------|-------------|------------|------|
-| 🤖 **ResumeForgeAI** | AI resume builder — Beat the ATS | React, Node, AI | [View](https://github.com/Sagun-Bajpai) |
 | 🌾 **KrishiMitra-AI** | Smart farming assistant — AI for Bharat Hackathon | HTML, CSS, JS, API | [View](https://github.com/Sagun-Bajpai) |
 | 🎬 **yt-GENAI** | YouTube video summarizer using MERN + GenAI | MERN, GenAI | WIP |
 | 🌤️ **WeatherApp** | Live weather with real-time API | React, OpenWeather API | [Live](https://sagun-bajpai.github.io) |
